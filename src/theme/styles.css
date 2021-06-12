@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__next {
+  margin: 0;
+  font-family: Roboto;
+  height: 100%;
+  width: 100%;
+}
